@@ -45,6 +45,8 @@ module.exports = (_, argv) => ({
       filename: "remoteEntry.js",
       remotes: {},
       exposes: {
+        "./AngularTestComponent": "./src/components/AngularTestComponent.jsx",
+        "./ConvertedAngularComponent": "./src/components/ConvertedAngularComponent.jsx",
         "./Bookmark": "./src/components/bookmark/Bookmark.jsx",
         "./BreadcrumbNav": "./src/components/breadcrumbs/BreadcrumbNav.jsx",
         "./Copyright": "./src/components/Copyright.jsx",

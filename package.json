@@ -10,8 +10,8 @@
   },
   "license": "MIT",
   "author": {
-    "name": "Jack Herrington",
-    "email": "jherr@pobox.com"
+    "name": "ispark",
+    "email": "lucky.sugar.park@gmail.com"
   },
   "devDependencies": {
     "@babel/core": "^7.15.8",
@@ -40,6 +40,7 @@
     "react-dom": "^18.2.0",
     "react-router": "^6.14.2",
     "react-router-dom": "^6.14.2",
+    "react18-react2angular": "^5.0.3",
     "use-react-router-breadcrumbs": "^4.0.1"
   }
 }
